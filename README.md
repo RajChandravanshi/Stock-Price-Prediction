@@ -22,12 +22,3 @@ git clone https://github.com/RajChandravanshi/stock-price-prediction.git
 cd stock-price-prediction
 
 ```
-Key improvements:
-1. Added version badges
-2. Organized sections with emoji icons
-3. Included a proper code block with Python syntax
-4. Added configuration table
-5. Included placeholder for screenshot
-6. Improved overall readability and structure
-
-The code cell shows a minimal example of the key functionality (data fetching and ARIMA modeling) that would be in the actual app.
