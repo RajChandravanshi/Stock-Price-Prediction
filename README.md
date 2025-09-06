@@ -14,6 +14,9 @@ A Streamlit application for stock price prediction using ARIMA models with data 
 - 📉 RMSE evaluation metrics
 - 🖥️ User-friendly parameter configuration
 
+![Logo](./image/image.png)
+
+
 ## Installation
 
 1. Clone the repository:
